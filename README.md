@@ -1,7 +1,7 @@
 # Electric Billing System
 
 ## Overview
-The Electric Billing System is a desktop application built using Java Swing that enables the management and calculation of electricity bills. This system allows users to input customer details, units consumed, and generates the corresponding bill amount based on predefined rates. It provides a user-friendly interface for handling billing operations and storing records.
+A Java Swing desktop app that calculates and manages electricity bills based on customer details and units consumed.
 
 ## Features
 - **User Management:** Add, view, and manage customer details.
